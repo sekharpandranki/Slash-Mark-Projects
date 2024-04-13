@@ -26,4 +26,3 @@ Create an online code editor with complete IDE functionalities. Implement a back
 ### Final Task: Food Delivery Web Application
 Design and develop a full-stack food delivery platform using React for the frontend and Node.js/Express.js for the backend. Implement features like restaurant listings, menus, order placement, tracking, reviews, and user notifications. Enhance your skills in advanced CSS, JavaScript, user authentication, geolocation services, and database integration.
 
-integration.
