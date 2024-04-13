@@ -1,4 +1,5 @@
 Slash Mark Internship Projects
+
 Welcome to the Slash Mark Internship Projects repository! This repository contains a collection of web development projects categorized into Basic, Intermediate, and Advanced levels, designed to enhance your skills and showcase your expertise.
 
 Basic Web Development Projects
